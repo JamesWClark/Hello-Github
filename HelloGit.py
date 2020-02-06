@@ -62,4 +62,3 @@ lookup = {}
 lookup['kc'] = 'chiefs'
 lookup['ne'] = 'patriots'
 lookup['la'] = 'chargers'
-lookup['suck'] = 'raiders'
