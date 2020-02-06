@@ -43,6 +43,12 @@ mylist = [1, 3, 8, 412, 43, 2, 20]
 # length of list
 len(mylist)
 
+# while
+x = 0
+while(x < 5):
+        x += 1
+        print("x = " + str(x))
+
 # for loop by index
 for i in range(len(mylist)):
 	print(mylist[i])
